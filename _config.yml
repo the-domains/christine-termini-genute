@@ -12,5 +12,9 @@ color:
     - '#8E2800'
 layout_spectrum: 0.9503655161242932
 name: Christine Termini-Genute
+navigation:
+  - name: Illustrations
+    id: a6ea756d-b3a6-4494-84bc-686f12080cfd
+    type: content
 title: Christine Termini-Genute
 description: Fine Art
